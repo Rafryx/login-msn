@@ -1,0 +1,134 @@
+body{
+    background-image: linear-gradient(to right, rgba(00,00,00,00), rgba(120,90,205));
+}
+
+.logo img{
+    margin: auto;
+    display: block;
+    margin-top: 2%;
+    border: 6px double purple;
+    border-radius: 30px 30px;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+.paragr1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
+}
+
+.formulario {
+    border: 1px solid purple;
+    width: 360px;
+    height: 350px;
+    display: flex;
+    margin: auto;
+    display: block;
+    border-radius: 5px;
+    
+}
+
+.formulario p {
+    margin: 10px;
+}
+
+form {
+    margin: auto;
+    display: block;       
+    }
+
+#email {
+    width: 320px;
+    margin-top: 7px;
+    }
+
+#senha{
+    width: 320px;
+    margin-bottom: 15px;
+}
+
+.email{
+    margin-top: 10px;
+    margin-left: 15px;
+    background-color: transparent;
+    border-radius: 3px;
+    padding: 5px; 
+}
+
+.senha{
+    margin-left: 15px;  
+    background-color: transparent;
+    border-radius: 3px;
+    padding: 5px;  
+}
+
+#lemb {
+   margin-left:10px;
+}
+
+#lemse {
+  margin-left:10px;
+}
+#auto {
+  margin-left:10px;
+}
+
+select {
+    background-color: transparent;
+    margin-left: 10px;
+    width: 100px;  
+}
+
+value valor1{
+    background-color: red;
+}
+
+option{
+    background-color: ;
+}
+
+.button{
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+    border:3px solid purple;  
+    border-radius: 5px;
+    width: 52px;
+}
+
+footer p {
+color: blueviolet;
+margin-top: 180px;
+margin-left: 15px;
+}
+
+
+.a1{
+    background: greenyellow;
+    color: black;
+    }
+    .a2{
+    background: red;
+    color: black;
+    }
+    .a3{
+    background: orange;
+    color: black;
+    }
+    .a4{
+    background: transparent;
+    color: black;
+    }
+ 
